@@ -3,16 +3,18 @@
 
 
 ![Screenshot](avatar_shiro.png)
-### My attempt to create my anime waifu assistant that can write and speak in cute voice.
+### Introducing My Anime Waifu Assistant: ShiroAi-chan 🌸
 
-### Description:
-My personal Ai assistant ShiroAi-chan. I wanted to create AI girl from a long time and now with really cheap and powerful model like [ChatGPT API] it's possible for anyone.
+Ever dreamt of having your own AI-powered anime girl? With the power of [ChatGPT API], now anyone can! Meet ShiroAi-chan, my personal AI assistant who can write and even speak in an adorable voice.
 
-### What is this repo?
-This repository has code that is shared over 3 repositories:
-1. [Streamlit repo] - This is web verion of ShiroAi-chan, build with [Streamlit].
-2. [Desktop repo] - This is desktop version of ShiroAi-chan, that is based on Tkinter as her GUI.
-3. [Wearos repo] - This version is mobile version of ShiroAi-chan, most personal because I made it so I can use my WearOS watch to speak to her. This version uses [FastAPI] that is running in docker container.
+### What's in This Repo?
+The code for ShiroAi-chan is split across three repositories for different platforms:
+1. [Streamlit repo] - The web version, built using [Streamlit].
+2. [Desktop repo] - The desktop version featuring a Tkinter-based GUI.
+3. [Wearos repo] - The mobile version, optimized for WearOS watches. This version runs on [FastAPI] inside a Docker container. (This version is most personalized, as I was focused on my Galaxy Watch 4)
+
+### Configuration and Installation 🛠️
+To try ShiroAi-chan on your own, this repository will actually not be neccesery because this code is shared in all 3 versions, so you need to choose which version you want, and go to that repository.
 
 ## Links 
 
