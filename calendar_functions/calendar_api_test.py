@@ -110,7 +110,8 @@ def get_schedule_for_day(answer_from_chatgpt):
                     formatted_result += "Ends at: " + str(component.get('dtend').dt) + "\n"
                     formatted_result += "Description: " + str(component.get('description')) + "\n\n"
     return formatted_result
-   
+
+
 if __name__ == "__main__":
     #start_date = datetime(2023, 7, 11)                 
     #end_date = datetime(2023, 7, 16)
