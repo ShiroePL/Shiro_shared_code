@@ -16,6 +16,12 @@ The code for ShiroAi-chan is split across three repositories for different platf
 ### Configuration and Installation 🛠️
 To try ShiroAi-chan on your own, this repository will actually not be neccesery because this code is shared in all 3 versions, so you need to choose which version you want, and go to that repository.
 
+
+
+
+
+### update
+its outdated, langchain changed totaly, probably half of the code is not working, will need to be checked whats usefull and whats not.
 ## Links 
 
 
